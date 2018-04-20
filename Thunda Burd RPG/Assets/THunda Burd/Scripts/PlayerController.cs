@@ -31,6 +31,7 @@ public class PlayerController : MonoBehaviour {
         public GameObject winC;
 
 // Use this for initialization
+//Don't listen to the comment above ^
 
 	Rigidbody2D rb;
 	Animator anim;
@@ -82,7 +83,7 @@ public class PlayerController : MonoBehaviour {
        
 	} 
 		
-	
+	//Poggers
 
 	void FixedUpdate (){
         if (gameOver)
@@ -144,7 +145,7 @@ public class PlayerController : MonoBehaviour {
 	}
 
    
-
+//found jimmie
 
 }
 
